@@ -57,10 +57,3 @@ Available models:
 | `xxnewxx_new_40` | Trained on 40 useful words |
 
 ---
-
-## Notes
-
-* Ensure the **model, scaler, and label encoder paths** in `signable.py` match the model you choose.
-* Only include the models you need in deployment to reduce app size.
-
-Do you want me to do that?
