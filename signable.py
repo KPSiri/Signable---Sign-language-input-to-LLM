@@ -166,7 +166,7 @@ with col_chat:
                                 </script>
                             """, height=0)
 
-        api_key = "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"
+        api_key = "sk-xxxxxxxxxxxx"
         if st.button("Send to Claude ⚡", type="primary", use_container_width=True) and st.session_state.gloss_list:
             with st.spinner("Interpreting..."):
                 try:
